@@ -1,0 +1,2 @@
+sku,title,description,price,quantity,tags,materials,image_filename,taxonomy_id,who_made,when_made,is_supply,shipping_profile_id,return_policy_id,shop_section_id,production_partner_ids,type
+SKU-1001,"Handmade Ceramic Mug","A hand-thrown ceramic mug with a speckled glaze and ergonomic handle. Holds 12 oz.",24.00,5,"ceramic;coffee mug;gift","stoneware clay;glaze","mug-front.jpg;mug-side.jpg",1234567890,i_did,2020_2023,false,987654321,null,null,,physical

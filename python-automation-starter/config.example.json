@@ -1,5 +1,19 @@
 {
-  "nasa_api_key": "DEMO_KEY",
+  "etsy_api_key": "YOUR_ETSY_API_KEY",
+  "etsy_access_token": "YOUR_OAUTH_ACCESS_TOKEN",
+  "shop_id": 12345678,
+  "inventory_file": "inventory.csv",
+  "images_dir": "images",
   "save_dir": "output",
-  "download_hd": false
+  "default_currency": "USD",
+  "default_who_made": "i_did",
+  "default_when_made": "made_to_order",
+  "default_is_supply": false,
+  "default_taxonomy_id": null,
+  "default_type": "physical",
+  "shipping_profile_id": null,
+  "return_policy_id": null,
+  "production_partner_ids": [],
+  "should_auto_renew": false,
+  "dry_run": true
 }
